@@ -14,6 +14,8 @@
 		BBA3F5581CC35C4E00F0BC9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBA3F5561CC35C4E00F0BC9D /* LaunchScreen.storyboard */; };
 		BBA3F5631CC35C4E00F0BC9D /* DBFMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA3F5621CC35C4E00F0BC9D /* DBFMTests.swift */; };
 		BBA3F56E1CC35C4E00F0BC9D /* DBFMUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA3F56D1CC35C4E00F0BC9D /* DBFMUITests.swift */; };
+		BBA3F57C1CC3752900F0BC9D /* BroudImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA3F57B1CC3752900F0BC9D /* BroudImageView.swift */; };
+		BBA3F57E1CC3883C00F0BC9D /* ChannelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA3F57D1CC3883C00F0BC9D /* ChannelViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		BBA3F5691CC35C4E00F0BC9D /* DBFMUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DBFMUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBA3F56D1CC35C4E00F0BC9D /* DBFMUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBFMUITests.swift; sourceTree = "<group>"; };
 		BBA3F56F1CC35C4E00F0BC9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBA3F57B1CC3752900F0BC9D /* BroudImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BroudImageView.swift; sourceTree = "<group>"; };
+		BBA3F57D1CC3883C00F0BC9D /* ChannelViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChannelViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				BBA3F5541CC35C4E00F0BC9D /* Assets.xcassets */,
 				BBA3F5561CC35C4E00F0BC9D /* LaunchScreen.storyboard */,
 				BBA3F5591CC35C4E00F0BC9D /* Info.plist */,
+				BBA3F57B1CC3752900F0BC9D /* BroudImageView.swift */,
+				BBA3F57D1CC3883C00F0BC9D /* ChannelViewController.swift */,
 			);
 			path = DBFM;
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				BBA3F5501CC35C4E00F0BC9D /* ViewController.swift in Sources */,
 				BBA3F54E1CC35C4E00F0BC9D /* AppDelegate.swift in Sources */,
+				BBA3F57E1CC3883C00F0BC9D /* ChannelViewController.swift in Sources */,
+				BBA3F57C1CC3752900F0BC9D /* BroudImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
